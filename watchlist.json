@@ -1,31 +1,5 @@
 {
   "issues": {
-    "PremanshChakraborty/issue_tracker_playground#1": {
-      "repo": "PremanshChakraborty/issue_tracker_playground",
-      "issue_number": 1,
-      "title": "issue 1",
-      "added_at": "2026-04-11T10:00:00Z",
-      "mode": "awaiting_reply",
-      "priority": "critical",
-      "inactivity_threshold_days": 3,
-      "stale_re_alert_days": 2,
-      "watch_users": [
-        "Author"
-      ],
-      "ignore_users": [],
-      "notify_on": [
-        "comments",
-        "closed",
-        "reopened",
-        "labeled",
-        "assigned",
-        "unassigned"
-      ],
-      "priority_bypass_quiet_hours": true,
-      "snooze_until": null,
-      "notes": "",
-      "auto_remove_on_close": true
-    },
     "PremanshChakraborty/issue_tracker_playground#3": {
       "repo": "PremanshChakraborty/issue_tracker_playground",
       "issue_number": 3,
