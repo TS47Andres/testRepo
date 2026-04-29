@@ -77,6 +77,42 @@
       "snooze_until": null,
       "notes": "",
       "auto_remove_on_close": true
+    },
+    "openclaw/openclaw#74334": {
+      "repo": "openclaw/openclaw",
+      "issue_number": 74334,
+      "title": "v2026.4.24: Stored snippet normalization mismatch with `relocateCandidateRange` causes silent rehydration failure for all post-Apr-23 promotion candidates",
+      "added_at": "2026-04-29T12:59:01.595Z",
+      "mode": "awaiting_reply",
+      "priority": "critical",
+      "inactivity_threshold_days": 1,
+      "stale_re_alert_days": 1,
+      "watch_users": [
+        "ALL"
+      ],
+      "ignore_users": [],
+      "notify_on": [
+        "assigned",
+        "unassigned",
+        "labeled",
+        "unlabeled",
+        "closed",
+        "reopened",
+        "renamed",
+        "cross-referenced",
+        "connected",
+        "merged",
+        "milestoned",
+        "demilestoned",
+        "review_requested",
+        "mentioned",
+        "comments"
+      ],
+      "priority_bypass_quiet_hours": true,
+      "snooze_until": null,
+      "notes": "Just Testing out something ",
+      "auto_remove_on_close": true,
+      "show_bot_comments": true
     }
   }
 }
