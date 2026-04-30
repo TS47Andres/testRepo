@@ -307,5 +307,19 @@
       "detail": "can i get a notif"
     },
     "delivered_to": "frontend_only"
+  },
+  {
+    "id": "2c0f652f-ade4-4325-99a3-fde83c3ccf0a",
+    "timestamp": "2026-04-30T17:50:37.244Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\nCurrent main still has the reported memory-core mismatch: daily ingestion can store heading-prefixed"
+    },
+    "delivered_to": "telegram"
   }
 ]
