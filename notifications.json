@@ -321,5 +321,19 @@
       "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\nCurrent main still has the reported memory-core mismatch: daily ingestion can store heading-prefixed"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "76c9977f-0ce2-4307-9658-b886a3e2780c",
+    "timestamp": "2026-04-30T22:54:28.665Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\nCurrent `main` still shows the reported memory-core mismatch, so this should stay open. Daily ingest"
+    },
+    "delivered_to": "telegram"
   }
 ]
