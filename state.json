@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-02T10:57:01.476Z",
+  "last_run": "2026-05-02T11:49:24.989Z",
   "last_digest_sent_at": "2026-05-02T01:11:08.042Z",
   "issues": {
     "PremanshChakraborty/issue_tracker_playground#1": {
@@ -48,8 +48,8 @@
       "last_activity_at": "2026-04-29T12:39:33.000Z",
       "inactivity_alerted": false,
       "inactivity_last_alerted_at": null,
-      "last_telegram_message_id": 70,
-      "window_comment_count": 1,
+      "last_telegram_message_id": 71,
+      "window_comment_count": 2,
       "window_event_count": 0
     }
   }
