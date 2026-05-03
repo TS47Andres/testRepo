@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-05-02T23:41:55.936Z",
-  "last_digest_sent_at": "2026-05-02T01:11:08.042Z",
+  "last_run": "2026-05-03T02:49:25.411Z",
+  "last_digest_sent_at": "2026-05-03T02:49:25.411Z",
   "issues": {
     "PremanshChakraborty/issue_tracker_playground#1": {
       "issue_author": "PremanshChakraborty",
@@ -43,13 +43,13 @@
     "openclaw/openclaw#74334": {
       "issue_author": "haumanto",
       "assignees": [],
-      "last_comment_id": 4343725761,
+      "last_comment_id": 4365165202,
       "last_event_id": null,
-      "last_activity_at": "2026-04-29T12:39:33.000Z",
+      "last_activity_at": "2026-05-03T01:58:14.000Z",
       "inactivity_alerted": false,
       "inactivity_last_alerted_at": null,
-      "last_telegram_message_id": 72,
-      "window_comment_count": 3,
+      "last_telegram_message_id": 74,
+      "window_comment_count": 0,
       "window_event_count": 0
     }
   }
