@@ -461,5 +461,19 @@
       "detail": "Following up — this still reproduces against `v2026.5.2` (build `8b2a6e5`), now four shipped releases (`v2026.4.24`, `v4.27`, `v4.29`, `v5.2`) all carrying the same line.\n\nConcrete v5.2 evidence:\n\n```"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "a1432047-504a-41f9-b956-97f6d71e63c1",
+    "timestamp": "2026-05-03T13:08:26.757Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\n**Summary**\nKeep open. Current `main` still has the reported memory-core mismatch: daily ingestion s"
+    },
+    "delivered_to": "telegram"
   }
 ]
