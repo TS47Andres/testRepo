@@ -503,5 +503,19 @@
       "detail": "Quick v5.3 confirmation — Bug #3 still reproduces unchanged:\n\n```\n$ openclaw --version\nOpenClaw 2026.5.3 (06d46f7)\n\n$ grep -n 'if (!relocated)' /usr/lib/node_modules/openclaw/dist/short-term-promotion"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "372e01cf-e52e-41e3-93ad-9ff548beff40",
+    "timestamp": "2026-05-04T11:21:35.512Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\n**Summary**\nKeep open. Current main still has the mismatched normalization and silent candidate-drop"
+    },
+    "delivered_to": "telegram"
   }
 ]
