@@ -475,5 +475,19 @@
       "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\n**Summary**\nKeep open. Current `main` still has the reported memory-core mismatch: daily ingestion s"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "3e313447-fbc2-4249-b269-f78c18c78218",
+    "timestamp": "2026-05-04T02:46:43.256Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Codex review: keeping this open for maintainer follow-up; there is still a little grit to resolve.\n\n**Summary**\nKeep open. Current main still has the reported memory-core mismatch: daily ingestion sto"
+    },
+    "delivered_to": "telegram"
   }
 ]
