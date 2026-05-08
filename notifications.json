@@ -531,5 +531,19 @@
       "detail": "Still reproducing — eight shipped releases now (`v2026.4.24`, `v4.27`, `v4.29`, `v5.2`, `v5.3`, `v5.4`, `v5.5`, `v5.6`, `v5.7`).\n\n```\n$ openclaw --version\nOpenClaw 2026.5.7 (eeef486)\n\n$ grep -n 'if (!"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "f105af9d-2057-4448-85b2-9cb06c42d285",
+    "timestamp": "2026-05-08T05:30:13.269Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "haumanto",
+      "summary": "@haumanto (Author) commented",
+      "detail": "**v2026.5.7 (eeef486) evidence — bug still reproduces.**\n\nAfter the 2026-05-08 v5.7 upgrade, the rehydration drop pattern is unchanged at `dist/short-term-promotion-Vm3Ap0nT.js:1237` (file hash drifte"
+    },
+    "delivered_to": "telegram"
   }
 ]
