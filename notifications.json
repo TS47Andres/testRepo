@@ -545,5 +545,47 @@
       "detail": "**v2026.5.7 (eeef486) evidence — bug still reproduces.**\n\nAfter the 2026-05-08 v5.7 upgrade, the rehydration drop pattern is unchanged at `dist/short-term-promotion-Vm3Ap0nT.js:1237` (file hash drifte"
     },
     "delivered_to": "telegram"
+  },
+  {
+    "id": "b1afadab-3abe-436c-81c3-ccd50c514cf5",
+    "timestamp": "2026-05-13T22:46:01.246Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "github-project-automation[bot]",
+      "summary": "@github-project-automation[bot] triggered \"project_v2_item_status_changed\"",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "ccfc4fa2-87ad-4ce2-b2e3-cca195b46f58",
+    "timestamp": "2026-05-13T22:46:01.246Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "status_change",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] closed the issue",
+      "detail": ""
+    },
+    "delivered_to": "telegram"
+  },
+  {
+    "id": "3b5b22c2-5539-4cd6-bb5d-268772112238",
+    "timestamp": "2026-05-13T22:46:01.246Z",
+    "issue_ref": "openclaw/openclaw#74334",
+    "type": "comment",
+    "mode_at_time": "awaiting_reply",
+    "priority_at_time": "critical",
+    "payload": {
+      "actor": "clawsweeper[bot]",
+      "summary": "@clawsweeper[bot] commented",
+      "detail": "Thanks for the context here. I swept through the related work, and this is now duplicate or superseded.\n\nClose as duplicate/superseded: current main still has the memory-core rehydration normalization"
+    },
+    "delivered_to": "telegram"
   }
 ]
